@@ -1,4 +1,4 @@
-# smart-parking-system
+# Smart-parking-system
 In this system, the image of the license number plate of the vehicle is acquired. It is further
 segmented to obtain individual characters in the number plate. Ultrasonic sensors are used
 to detect free parking slots. Then the images of number plate are taken and analysed.
